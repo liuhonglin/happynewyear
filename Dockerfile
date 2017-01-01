@@ -1,4 +1,4 @@
-FROM daocloud.io/library/java:6b34-jdk
+FROM daocloud.io/java:7
 
 MAINTAINER hl.l "liuhonglinh@163.com"
 
